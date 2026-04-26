@@ -1,3 +1,5 @@
+<img width="1350" height="743" alt="EXAM PREDICTION DASHBOARD" src="https://github.com/user-attachments/assets/7709c239-1586-4cdf-8fc5-728dc8404ba7" />
+<img width="1350" height="743" alt="EXAM PREDICTION DASHBOARD" src="https://github.com/user-attachments/assets/9208e062-7bc8-4b0e-90de-e4f716abb894" />
 # 📊 Exam Score Prediction Dashboard
 
 ## 🚀 Project Overview
